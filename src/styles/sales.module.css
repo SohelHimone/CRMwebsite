@@ -10,6 +10,7 @@
     align-items: center;
     background-color: #262626;
     color:white;
+    margin-bottom: 50px;
 
 }
 .heading{
@@ -85,7 +86,7 @@
     /* border: 1px solid black; */
     display: flex;
     flex-direction: row;
-    align-items: end;
+    align-items: flex-end;
 
 }
 .upperlayer span{
