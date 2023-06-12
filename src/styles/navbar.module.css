@@ -7,6 +7,10 @@
      justify-content: center;
      align-items: center;
      position: sticky;
+     background-color: #262626;
+     top:0;
+     z-index:3;
+     
 }
 .uppercontainer{
     width: 100%;
@@ -76,6 +80,7 @@
      justify-content: center;
      align-items: center;
      box-shadow: 2px 6px 8px rgba(211, 200, 200, 0.5);
+     
 }
 .lowermiddle{
     width: 80%;
@@ -87,7 +92,7 @@
      align-items: center;
 }
 .Heading{
-    color :black;
+    color :white;
     font-size: 2.2rem;
     width: 20%;
     height: auto;
@@ -123,7 +128,7 @@
     text-decoration: none;
     list-style: none;
     font-size: 20px;
-    color :black;
+    color:orange;
     font-size: 16px;
     font-weight: 600;
      position: relative;
@@ -131,7 +136,7 @@
 
 .icon {
     margin-left: 5px;
-    background-color: #f1f1f1;
+    background-color: #262626;
   }
 .aboutcontent{
     visibility: hidden;

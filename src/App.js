@@ -4,6 +4,8 @@ import Navbar from './Components/Navbar';
 import Home from './Pages/HomePage';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 import Sales from './Pages/Sales';
+import Middle from './Pages/Middlecomponent';
+
 
 
 function App() {
@@ -11,6 +13,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Home/>
+     
       <Sales/>
     </div>
   );
